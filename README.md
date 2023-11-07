@@ -1,5 +1,10 @@
 ng-client 使用
 
+在线试用:
+- 地址: http://www.wl119.club/desktop/ng-demo
+- 账户: ng-demo
+- 密码: ng-demo
+
 # ng-client 介绍
 
 ng-client是NG服务的客户端，**在需要内网穿透的机器上部署ng-client**。
